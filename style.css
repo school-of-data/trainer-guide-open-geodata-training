@@ -1,0 +1,48 @@
+/* OpenSans Font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
+
+body{
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+#livemark-brand{
+    color: #009AD6 !important;
+    font-weight: 600 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    color: #009AD6 !important;
+}
+
+h1, h2 {
+    font-weight: 600 !important;
+}
+
+h3, h4, h5, h6 {
+    font-weight: 400 !important;
+}
+
+#livemark-pages a:hover {
+    color: #009AD6 !important;
+}
+
+#livemark-pages li.active > a {    
+    color: #009AD6 !important;
+}
+
+#livemark-pages li.group a.primary::after {
+    top: 6px !important;
+}
+
+#livemark-right {
+    display: none !important;
+}
+
+#livemark-main {
+    margin-right: 0px !important;
+}
+
+#livemark-display {
+    margin-bottom: 42px !important;
+}

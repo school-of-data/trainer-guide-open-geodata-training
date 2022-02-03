@@ -1,0 +1,77 @@
+brand:
+  text: Open Geodata Programme Trainer's Guide
+
+about:
+  text: Trainer's Guide for the Open Geodata Training Programme by OKFN and Meta
+
+site:
+  logo: assets/logo.svg
+  favicon: assets/favicon.ico
+  styles:
+    - style.css
+
+topics:
+  selector: h2
+
+pages:
+  items: 
+    - name: About the guide
+      path: index
+    - name: About the programme
+      path: pages/about
+    - name: Training preparation
+      items:
+        - path: pages/preparation/preparation-checklist
+        - path: pages/preparation/training-event-page
+        - path: pages/preparation/communications
+        - path: pages/preparation/pre-event-surveys
+        - path: pages/preparation/schedule
+        - path: pages/preparation/training-agenda
+        - path: pages/preparation/training-materials
+        - path: pages/preparation/training-requirements
+        - path: pages/preparation/dry-run
+    - name: Live training phase
+      items:
+        - path: pages/live-training-phase/live-training
+        - path: pages/live-training-phase/during-live-training
+        - path: pages/live-training-phase/after-live-training
+    - name: Mentoring phase
+      items:
+        - path: pages/mentoring-phase/mentoring
+        - path: pages/mentoring-phase/activities
+        - path: pages/mentoring-phase/sample-schedule        
+    - name: Mentoring projects
+      items:
+        - path: pages/mentoring-project/choosing-a-project
+        - path: pages/mentoring-project/general-timeline
+        - path: pages/mentoring-project/sample-project-timelines
+        - path: pages/mentoring-project/completion    
+    - name: Training deliverables
+      items:
+        - path: pages/training-deliverables/deliverables-checklist
+        - path: pages/training-deliverables/project-report
+        - path: pages/training-deliverables/final-report
+    - name: Training resources
+      items:
+        - path: pages/training-resources/training-resources
+        - path: pages/training-resources/other-resources
+
+links:
+  items:
+    - name: Open Geodata Training Curriculum
+      path: https://school-of-data.github.io/GIS-curriculum/
+    - name: Open Knowledge Foundation Training Events
+      path: https://school-of-data.github.io/okf-events-a
+    - name: Open Knowledge Foundation
+      path: https://okfn.org
+    - name: Data for Good at Meta
+      path: https://dataforgood.facebook.com/
+    - name: School of Data
+      path: https://schoolofdata.org
+    - name: Livemark
+      path: https://livemark.frictionlessdata.io
+
+source: false
+
+rating:
+  type: star
