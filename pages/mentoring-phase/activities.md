@@ -2,7 +2,7 @@
 
 ## Project tracking and monitoring
 - The project tracking and monitoring document is a good way to identify if groups are on-track to finish their projects.
-- [Sample project tracking and monitorin document](https://docs.google.com/spreadsheets/d/1z7_k-vZbtpf6FietZ6awfo-TcvJpDzQRVRf1l4wRvpA/edit?usp=sharing)
+- [Sample project tracking and monitoring document](https://docs.google.com/spreadsheets/d/1z7_k-vZbtpf6FietZ6awfo-TcvJpDzQRVRf1l4wRvpA/edit?usp=sharing)
 
 ## Weekly mentoring calls
 ```yaml remark
@@ -17,7 +17,7 @@ text: The mentoring call should not be used for the participants to do work as p
 - Depending on the number of groups, the mentoring calls should last no more than 30-45 minutes per group per week.
 - At the end of the mentoring calls, the action points should include the next steps that the participants need to take in order to progress or finish their projects.
 - The trainers and participants can decide what schedule works best for the mentoring calls when both the trainers and participants are available—e.g. afternoons only, mornings only, Thursdays and Fridays only, etc.
-- Use the [Project Tracking document](/pages/mentoring-phase/activities.html#project-tracking-and-monitoring) to document the mentoring calls.
+- Use the [Project Tracking document](#project-tracking-and-monitoring) to document the mentoring calls.
 - Record the mentoring calls especially if they contain technical explanations, examples, and walkthroughs that the group might need to recall or watch again.
 
 ### Scheduling mentoring calls

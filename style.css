@@ -34,15 +34,3 @@ h3, h4, h5, h6 {
 #livemark-pages li.group a.primary::after {
     top: 6px !important;
 }
-
-#livemark-right {
-    display: none !important;
-}
-
-#livemark-main {
-    margin-right: 0px !important;
-}
-
-#livemark-display {
-    margin-bottom: 42px !important;
-}
